@@ -1,16 +1,15 @@
-# todoapp
+# Flutter-ToDoApp
+This is simple todo app develop using Flutter for learning purpose.
+----------------
 
-A new Flutter project.
+A simple todo app where user can manage daily wage task.
 
-## Getting Started
+This is Native Todo App which can run on both plantform an iOS and Anroid because it written in Flutter.
 
-This project is a starting point for a Flutter application.
+I am trying to develop ToDo App in many languages for learning purpose. So please conntribute and develop it with different language for all platform.
 
-A few resources to get you started if this is your first Flutter project:
+Anyone can Contribute and develop more features for this app. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I also created Repos in other languages which not available in this Repository.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have started with Flutter first.
